@@ -14,7 +14,7 @@ function Hero() {
               </h1>
               <p className="mb-8 max-w-[480px] text-base text-body-color">
                 Customizable Community Platform for Corporates,Associations,
-                Organisations, NGO's, Creators, College and Society Clubs
+                Organisations, NGOs, Creators, College and Society Clubs
               </p>
               <ul className="flex flex-wrap items-center">
                 <li>
